@@ -34,9 +34,9 @@
   <!-- <img width="10" /> -->
   <!-- <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo"  /> -->
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="31" alt="cloudflare logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="31" alt="cloudflare logo"  /> -->
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="31" alt="firebase logo"  />
+  <!-- <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="31" alt="firebase logo"  /> -->
 </div>
 
 ###
