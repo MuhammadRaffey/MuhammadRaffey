@@ -1,11 +1,9 @@
-name: Generate Snake
+name: Generate Snake Contribution Graph
 
-# Schedule the workflow to run every 6 hours
+# Schedule the workflow to run every 6 hours and allow manual trigger
 on:
   schedule:
     - cron: "0 */6 * * *"
-
-  # Allow manual triggering of the workflow
   workflow_dispatch:
 
 jobs:
@@ -22,7 +20,9 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: MuhammadRaffey
-          outputs: dist/snake
+          # Adjust the output paths if required
+          gif_out_path: dist/snake/github-contribution-grid-snake.gif
+          svg_out_path: dist/snake/github-contribution-grid-snake.svg
 
       # Display the status of the repository (useful for debugging)
       - name: Show git status
@@ -39,7 +39,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Deploy the snake files to GitHub Pages
+      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
