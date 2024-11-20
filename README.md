@@ -59,8 +59,4 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MuhammadRaffey/MuhammadRaffey/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/MuhammadRaffey/MuhammadRaffey/blob/output/github-snake-dark.svg)
