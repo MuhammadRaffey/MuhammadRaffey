@@ -12,35 +12,30 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="31" alt="typescript logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" height="31" alt="robot icon" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="31" alt="typescript logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="31" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo" />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" alt="react logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="31" alt="nextjs logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo" />
   <img width="10" />
-  <!-- <img src="https://cdn.simpleicons.org/mongodb/47A248" height="31" alt="mongodb logo"  /> -->
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="31" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="31" alt="nodejs logo" />
   <img width="10" />
-  <!-- <img src="https://cdn.simpleicons.org/flutter/02569B" height="31" alt="flutter logo"  /> -->
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="31" alt="bash logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="31" alt="bash logo"  />
-  <!-- <img width="10" /> -->
-  <!-- <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo"  /> -->
-  <img width="10" />
-  <!-- <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="31" alt="cloudflare logo"  /> -->
-  <img width="10" />
-  <!-- <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="31" alt="firebase logo"  /> -->
 </div>
+
 
 ###
 
@@ -51,9 +46,6 @@
   <a href="https://www.linkedin.com/in/muhammadraffey/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
   </a>
-  <!-- <a href="https://dribbble.com/danyalmoazzamjan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="dribbble logo"  />
-  </a> -->
   <a href="https://stackoverflow.com/users/15295176/muhammad-raffey" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="stackoverflow logo"  />
   </a>
