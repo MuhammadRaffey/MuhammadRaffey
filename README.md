@@ -5,11 +5,11 @@
 <br clear="both">
 
 <div align="center">
-  <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://streak-stats.demolab.com?user=MuhammadRaffey&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" width="400" alt="streak graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadRaffey&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="180" width="400" alt="languages graph" />
+  <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 5px;">
+    <img src="https://streak-stats.demolab.com?user=MuhammadRaffey&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="170" width="350" alt="streak graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadRaffey&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="170" width="350" alt="languages graph" />
   </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadRaffey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" width="400" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadRaffey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" width="350" alt="stats graph" />
 </div>
 
 ###
