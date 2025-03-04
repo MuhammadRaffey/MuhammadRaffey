@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/github/followers/MuhammadRaffey?style=flat&logo=github&label=Followers" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/MuhammadRaffey?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-43-181717?style=flat&logo=github" alt="GitHub Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-68-181717?style=flat&logo=github" alt="GitHub Repositories" />
   </a>
 </div>
 
