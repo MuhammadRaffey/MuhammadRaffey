@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Raffey and I'm a Full Stack Developer from Pakistan 🇵🇰</h2>
+<h2 align="center">Hi 👋! My name is Raffey — I'm an AI Agent Engineer and Full Stack Web Developer from Pakistan 🇵🇰</h2>
 
 ###
 
@@ -15,28 +15,29 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="31" height="31" alt="python logo" />
   <img width="10" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png" height="31" alt="AI Icon" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png" width="31" height="31" alt="AI Icon" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="31" alt="typescript logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="31" height="31" alt="typescript logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="31" height="31" alt="javascript logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" alt="react logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="31" height="31" alt="react logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="31" alt="nextjs logo" />
+  <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="31" height="31" alt="nextjs logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="31" height="31" alt="html5 logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="31" height="31" alt="css3 logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo" />
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="31" height="31" alt="tailwindcss logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="31" alt="nodejs logo" />
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" width="31" height="31" alt="nodejs logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="31" alt="bash logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="31" height="31" alt="bash logo" />
   <img width="10" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="31" height="31" alt="figma logo" />
 </div>
 
 ###
