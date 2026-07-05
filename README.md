@@ -63,9 +63,9 @@ stack:
 **AI / Agents**
 
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88&labelColor=161b22)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff88&labelColor=161b22)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=00ff88&labelColor=161b22)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88&labelColor=161b22)
+<img src="https://github.com/langchain-ai/.github/blob/main/profile/logo-light.svg?raw=true" height="32" alt="LangChain" />
+<img src="https://github.com/langchain-ai/langgraph/blob/main/.github/images/logo-light.svg?raw=true" height="32" alt="LangGraph" />
 
 **Web / Frontend**
 
@@ -99,14 +99,14 @@ stack:
 
 ## `> pinned.projects`
 
-| Project | What I Built | Stack |
-| --- | --- | --- |
-| [⬡ Heer Clothings](https://www.heerclothings.com/) | Production fashion storefront with collection browsing, product detail pages, cart flow, and mobile-first UX. | `TypeScript` `React` `Next.js` `Tailwind CSS` `Framer Motion` |
-| [⬡ Meme Mushaira](https://play.google.com/store/apps/details?id=com.raffey.mememushaira) | Android app for personalized English memes and Urdu shairi with onboarding-based content personalization. | `React` `Expo` `Android` |
-| [⬡ IELTS with Asif](https://www.ieltswithasif.com/) | Coaching business website with packages, pricing, testimonials, results, and contact flow. | `TypeScript` `React` `Next.js` `Tailwind CSS` |
-| [⬡ UOL CGPA Hub](https://play.google.com/store/apps/details?id=com.raffey.uolcgpa) | Local-first CGPA calculator for University of Lahore students with saved calculations and target planning. | `Expo SDK` `Expo Router` `React Native` `TypeScript` `AsyncStorage` |
-| [⬡ Mood Shaiari](https://mood-shaiari.vercel.app/) | AI creative tool that generates contextual Urdu poetry from a selected emotion. | `TypeScript` `React` `Next.js` `OpenAI` |
-| [⬡ AI Meeting Summarizer](https://ai-meeting-summarizer.vercel.app/) | Tool that converts live speech into structured AI-generated meeting notes. | `TypeScript` `React` `Next.js` `OpenAI` |
+| Project                                                                                  | What I Built                                                                                                  | Stack                                                               |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [⬡ Heer Clothings](https://www.heerclothings.com/)                                       | Production fashion storefront with collection browsing, product detail pages, cart flow, and mobile-first UX. | `TypeScript` `React` `Next.js` `Tailwind CSS` `Framer Motion`       |
+| [⬡ Meme Mushaira](https://play.google.com/store/apps/details?id=com.raffey.mememushaira) | Android app for personalized English memes and Urdu shairi with onboarding-based content personalization.     | `React` `Expo` `Android`                                            |
+| [⬡ IELTS with Asif](https://www.ieltswithasif.com/)                                      | Coaching business website with packages, pricing, testimonials, results, and contact flow.                    | `TypeScript` `React` `Next.js` `Tailwind CSS`                       |
+| [⬡ UOL CGPA Hub](https://play.google.com/store/apps/details?id=com.raffey.uolcgpa)       | Local-first CGPA calculator for University of Lahore students with saved calculations and target planning.    | `Expo SDK` `Expo Router` `React Native` `TypeScript` `AsyncStorage` |
+| [⬡ Mood Shaiari](https://mood-shaiari.vercel.app/)                                       | AI creative tool that generates contextual Urdu poetry from a selected emotion.                               | `TypeScript` `React` `Next.js` `OpenAI`                             |
+| [⬡ AI Meeting Summarizer](https://ai-meeting-summarizer.vercel.app/)                     | Tool that converts live speech into structured AI-generated meeting notes.                                    | `TypeScript` `React` `Next.js` `OpenAI`                             |
 
 ---
 
