@@ -81,7 +81,6 @@ stack:
 
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
