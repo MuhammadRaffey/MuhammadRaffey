@@ -1,113 +1,188 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:14b8a6&text=Muhammad%20Raffey&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=18" alt="Muhammad Raffey GitHub Banner" width="100%" />
-</div>
+```text
+███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗
+████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
 
-# Hi, I'm Muhammad Raffey
+██████╗  █████╗ ███████╗███████╗███████╗██╗   ██╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝██╔════╝╚██╗ ██╔╝
+██████╔╝███████║█████╗  █████╗  █████╗   ╚████╔╝
+██╔══██╗██╔══██║██╔══╝  ██╔══╝  ██╔══╝    ╚██╔╝
+██║  ██║██║  ██║██║     ██║     ███████╗   ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝   ╚═╝
+```
 
-### Full-Stack Developer | AI Engineer | Multi-Agent Systems Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+AI+Engineer;OpenAI+%7C+LangGraph+%7C+Multi-Agent+Systems;React+%7C+Next.js+%7C+TypeScript+%7C+Python+%7C+FastAPI;Building+production-ready+AI-powered+web+apps)](https://git.io/typing-svg)
 
-React • Next.js • TypeScript • Python • FastAPI • OpenAI • LangChain • LangGraph • Expo • Tailwind CSS
+---
 
-I build scalable web apps and AI-powered systems using React, Next.js, Python, and OpenAI. I specialize in multi-agent frameworks, LLM integrations, production-ready web experiences, and end-to-end products that solve real user problems.
+```bash
+visitor@github:~$ cat ./about_me.txt
 
-Based in Pakistan and open to remote opportunities.
+Name     : Muhammad Raffey
+Handle   : MuhammadRaffey
+Location : Lahore, Pakistan
+Role     : Full-Stack Developer & AI Engineer
+Focus    : Multi-Agent Systems · LLM Apps · Web Platforms · Mobile Apps
+Stack    : React · Next.js · TypeScript · Python · FastAPI · OpenAI
+Status   : Open to remote opportunities and collaboration
+Portfolio: muhammadraffey.dev
+```
 
-**Portfolio:** [muhammadraffey.dev](https://www.muhammadraffey.dev/)<br>
-**Resume:** [Download CV](https://www.muhammadraffey.dev/Muhammad_Raffey_Resume.pdf)<br>
-**Contact:** [muhammadraffey26@gmail.com](mailto:muhammadraffey26@gmail.com)
+---
 
-## Featured Project
+## `> featured.project`
 
-### AI Interview Buddy
+### Talent Hunt AI
 
-A mock interview platform that helps job seekers practice realistic interviews and receive AI-powered feedback.
+An AI-powered recruitment platform with ATS-style workflows for HR teams, graduates, and admins.
 
-#### Features
+```yaml
+problem: Recruitment teams need faster applicant evaluation, screening, and candidate matching workflows.
+role: Designed and developed the full-stack recruitment platform across HR, graduate, and admin flows.
+features:
+  - CV parsing
+  - Job-to-CV matching
+  - MCQ assessments
+  - Chatbot support
+  - Automated screening interviews
+  - Authentication, file storage, and real-time applicant evaluation flows
+stack:
+  - Next.js
+  - FastAPI
+  - PostgreSQL
+  - AI-driven hiring workflows
+```
 
-- Speech recognition pipeline for interview responses
-- OpenAI integration for real-time feedback
-- Industry-specific interview simulation
-- Responsive Next.js interface
-- Deployed full-stack AI workflow
+---
 
-**Project Repository:** [AI Interview Buddy](https://github.com/MuhammadRaffey/ai-interview-buddy)<br>
-**Live Demo:** [raffeys-ai-interview-buddy.vercel.app](https://raffeys-ai-interview-buddy.vercel.app/)
+## `> tech.stack`
 
-## Selected Work
+**AI / Agents**
+
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88&labelColor=161b22)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff88&labelColor=161b22)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=00ff88&labelColor=161b22)
+
+**Web / Frontend**
+
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+
+**Backend / APIs**
+
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+**Mobile / Tools**
+
+[![React Native](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+![Expo](https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=00ff88&labelColor=161b22)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+---
+
+## `> pinned.projects`
 
 | Project | What I Built | Stack |
 | --- | --- | --- |
-| [Heer Clothings](https://www.heerclothings.com/) | Production fashion storefront with collection browsing, product detail pages, cart flow, and mobile-first UX. | TypeScript, React, Next.js, Tailwind CSS, Framer Motion |
-| [Meme Mushaira](https://play.google.com/store/apps/details?id=com.raffey.mememushaira) | Android app for personalized English memes and Urdu shairi with onboarding-based content personalization. | React, Expo, Android |
-| [IELTS with Asif](https://www.ieltswithasif.com/) | Business website for an IELTS trainer with packages, pricing, testimonials, success rates, and contact flow. | TypeScript, React, Next.js, Tailwind CSS |
-| [UOL CGPA Hub](https://play.google.com/store/apps/details?id=com.raffey.uolcgpa) | Local-first CGPA calculator for University of Lahore students with saved calculations, target planning, and Android build setup. | Expo SDK, Expo Router, React Native, TypeScript, AsyncStorage |
-| [Mood Shaiari](https://mood-shaiari.vercel.app/) | AI creative tool that generates contextual Urdu poetry based on a user's selected emotion. | TypeScript, React, Next.js, Tailwind CSS, OpenAI |
-| [AI Meeting Summarizer](https://ai-meeting-summarizer.vercel.app/) | Tool that converts live speech into structured AI-generated meeting notes. | TypeScript, React, Next.js, Tailwind CSS, OpenAI |
+| [⬡ Heer Clothings](https://www.heerclothings.com/) | Production fashion storefront with collection browsing, product detail pages, cart flow, and mobile-first UX. | `TypeScript` `React` `Next.js` `Tailwind CSS` `Framer Motion` |
+| [⬡ Meme Mushaira](https://play.google.com/store/apps/details?id=com.raffey.mememushaira) | Android app for personalized English memes and Urdu shairi with onboarding-based content personalization. | `React` `Expo` `Android` |
+| [⬡ IELTS with Asif](https://www.ieltswithasif.com/) | Coaching business website with packages, pricing, testimonials, results, and contact flow. | `TypeScript` `React` `Next.js` `Tailwind CSS` |
+| [⬡ UOL CGPA Hub](https://play.google.com/store/apps/details?id=com.raffey.uolcgpa) | Local-first CGPA calculator for University of Lahore students with saved calculations and target planning. | `Expo SDK` `Expo Router` `React Native` `TypeScript` `AsyncStorage` |
+| [⬡ Mood Shaiari](https://mood-shaiari.vercel.app/) | AI creative tool that generates contextual Urdu poetry from a selected emotion. | `TypeScript` `React` `Next.js` `OpenAI` |
+| [⬡ AI Meeting Summarizer](https://ai-meeting-summarizer.vercel.app/) | Tool that converts live speech into structured AI-generated meeting notes. | `TypeScript` `React` `Next.js` `OpenAI` |
 
-## About Me
+---
 
-- Currently focused on advanced agent orchestration, modern web apps, AI-powered user interfaces, and enterprise AI solutions.
-- I build autonomous multi-agent systems and production web apps using React, Next.js, Python, and OpenAI integrations.
-- Shipped AI interview platforms, meeting summarizers, e-commerce solutions, mobile apps, and LLM-powered creative tools.
-- Ask me about multi-agent systems, OpenAI APIs, LangGraph, Next.js, FastAPI, TypeScript, and full-stack product development.
+## `> github.stats`
 
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.muhammadraffey.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="portfolio" />
-  </a>
-  <a href="mailto:muhammadraffey26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammadraffey/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin" />
-  </a>
-  <a href="https://stackoverflow.com/users/15295176/muhammad-raffey" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="stackoverflow" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadRaffey&theme=github_dark" alt="Muhammad Raffey GitHub profile summary" />
 </p>
 
-## Tech Stack
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadRaffey&theme=github_dark" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadRaffey&theme=github_dark" alt="Top languages by commit" />
+</p>
 
-| AI / Agents | Web / Frontend | Backend / APIs | Mobile / App |
-| --- | --- | --- | --- |
-| <img src="https://skillicons.dev/icons?i=python" height="38" alt="Python" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" alt="OpenAI" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" alt="LangChain" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" height="38" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS" /> | <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb" height="38" alt="FastAPI, Node.js, Express, PostgreSQL, MongoDB" /> | <img src="https://skillicons.dev/icons?i=react" height="38" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="28" alt="Expo" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="28" alt="Android" /> |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadRaffey&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhammadRaffey&theme=github_dark&utcOffset=5" alt="GitHub productive time" />
+</p>
 
-| DevOps / Tools | Design / Workflow | Currently Exploring |
-| --- | --- | --- |
-| <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,bash" height="38" alt="Git, GitHub, Docker, Vercel, Bash" /> | <img src="https://skillicons.dev/icons?i=figma,vscode" height="38" alt="Figma, VS Code" /> | OpenAI Agents SDK • LangGraph • Multi-agent orchestration • AI-powered workflow automation |
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadRaffey&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=c8fcd8&dates=4a7a5a&stroke=1a2a1a&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
-## GitHub Statistics
+---
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MuhammadRaffey&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="170" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadRaffey&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=tokyonight&hide_border=false" height="170" alt="Top languages" />
-</div>
+## `> currently.working_on`
 
-<br />
+```python
+current = {
+    "learning": [
+        "advanced agent orchestration",
+        "OpenAI Agents SDK",
+        "LangGraph workflows",
+        "enterprise AI solutions",
+    ],
+    "building": [
+        "production web apps",
+        "AI-powered user interfaces",
+        "LLM workflow automation",
+        "mobile-first product experiences",
+    ],
+    "ask_me_about": [
+        "Next.js",
+        "FastAPI",
+        "OpenAI APIs",
+        "multi-agent systems",
+        "full-stack product development",
+    ],
+}
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadRaffey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="170" alt="GitHub stats" />
-</div>
+---
 
-<br />
+## `> activity.graph`
 
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=MuhammadRaffey&color=blue&style=flat" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=MuhammadRaffey&color=blue&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/MuhammadRaffey" target="_blank">
-    <img src="https://img.shields.io/github/followers/MuhammadRaffey?style=flat&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/MuhammadRaffey?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-77-181717?style=flat&logo=github" alt="GitHub repositories" />
-  </a>
-  <img src="https://img.shields.io/badge/Last%20Update-July%202026-2563eb?style=flat&logo=githubactions&logoColor=white" alt="Last update July 2026" />
-</div>
+[![Muhammad Raffey's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadRaffey&bg_color=0d1117&color=00ff88&line=00cc66&point=ffffff&area=true&area_color=003322&hide_border=true&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br />
+---
 
-<div align="center">
-  <img src="https://github.com/MuhammadRaffey/MuhammadRaffey/blob/output/github-snake-dark.svg" alt="GitHub contribution snake" />
-</div>
+## `> contact.init()`
+
+```python
+contact = {
+    "portfolio": "https://www.muhammadraffey.dev",
+    "github": "https://github.com/MuhammadRaffey",
+    "linkedin": "https://www.linkedin.com/in/muhammadraffey/",
+    "email": "muhammadraffey26@gmail.com",
+    "status": "Open to remote opportunities and collaborations",
+}
+
+print("Let's build something useful with AI.")
+```
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-muhammadraffey.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff88&labelColor=161b22)](https://www.muhammadraffey.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Raffey-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88&labelColor=161b22)](https://www.linkedin.com/in/muhammadraffey/)
+[![Gmail](https://img.shields.io/badge/Gmail-muhammadraffey26%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88&labelColor=161b22)](mailto:muhammadraffey26@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=MuhammadRaffey&style=for-the-badge&color=00cc66&label=PROFILE+VIEWS&labelColor=161b22)
+
+---
+
+`// building scalable web apps and AI-powered systems · one useful commit at a time`
